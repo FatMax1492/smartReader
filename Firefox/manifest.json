@@ -1,13 +1,13 @@
 {
   "browser_specific_settings": {
     "gecko": {
-      "id": "contact@example.com"
+      "id": "manuelbaudet@hotmail.nl"
     }
   },
 
   "manifest_version": 2,
   "name": "smartReader",
-  "version": "1.4",
+  "version": "1.5",
 
   "description": "Modify a web page to make it more readable",
 
